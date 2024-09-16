@@ -1,0 +1,14 @@
+C:\C#_Projects\OopLecture03\lec03\bin\Debug\net8.0\lec03.exe
+C:\C#_Projects\OopLecture03\lec03\bin\Debug\net8.0\lec03.deps.json
+C:\C#_Projects\OopLecture03\lec03\bin\Debug\net8.0\lec03.runtimeconfig.json
+C:\C#_Projects\OopLecture03\lec03\bin\Debug\net8.0\lec03.dll
+C:\C#_Projects\OopLecture03\lec03\bin\Debug\net8.0\lec03.pdb
+C:\C#_Projects\OopLecture03\lec03\obj\Debug\net8.0\lec03.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Projects\OopLecture03\lec03\obj\Debug\net8.0\lec03.AssemblyInfoInputs.cache
+C:\C#_Projects\OopLecture03\lec03\obj\Debug\net8.0\lec03.AssemblyInfo.cs
+C:\C#_Projects\OopLecture03\lec03\obj\Debug\net8.0\lec03.csproj.CoreCompileInputs.cache
+C:\C#_Projects\OopLecture03\lec03\obj\Debug\net8.0\lec03.dll
+C:\C#_Projects\OopLecture03\lec03\obj\Debug\net8.0\refint\lec03.dll
+C:\C#_Projects\OopLecture03\lec03\obj\Debug\net8.0\lec03.pdb
+C:\C#_Projects\OopLecture03\lec03\obj\Debug\net8.0\lec03.genruntimeconfig.cache
+C:\C#_Projects\OopLecture03\lec03\obj\Debug\net8.0\ref\lec03.dll
