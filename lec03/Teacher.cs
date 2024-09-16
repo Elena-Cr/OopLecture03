@@ -12,6 +12,7 @@ public class Teacher()
     {
         Console.WriteLine($"Id:{TeacherId}, Name:{Name}, Degree:{Degree}, Department:{Department},Years of Experience:{YearsOfExperience}");
     }
+
     public string GetTeacherInfo()
     {
         return $"Id:{TeacherId}, Name:{Name}, Degree:{Degree}, Department:{Department},Years of Experience:{YearsOfExperience}";

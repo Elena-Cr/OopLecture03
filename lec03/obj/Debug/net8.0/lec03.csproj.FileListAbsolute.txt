@@ -12,3 +12,4 @@ C:\C#_Projects\OopLecture03\lec03\obj\Debug\net8.0\refint\lec03.dll
 C:\C#_Projects\OopLecture03\lec03\obj\Debug\net8.0\lec03.pdb
 C:\C#_Projects\OopLecture03\lec03\obj\Debug\net8.0\lec03.genruntimeconfig.cache
 C:\C#_Projects\OopLecture03\lec03\obj\Debug\net8.0\ref\lec03.dll
+C:\C#_Projects\OopLecture03\lec03\obj\Debug\net8.0\lec03.sourcelink.json
