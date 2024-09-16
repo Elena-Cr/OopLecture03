@@ -1,5 +1,6 @@
 ﻿using System;
 using StudentNameSpace;
+using TeacherNameSpace;
 
 
 
@@ -33,3 +34,13 @@ student1.Name = Console.ReadLine();
 Console.WriteLine("Provide Student Date of Birth in DD-MM-YYYY Format:");
 student1.Dob = DateTime.ParseExact(Console.ReadLine(), "dd-MM-yyyy", null);
 student1.PrintStudentInfo();
+
+Teacher teacher1 = new()
+{
+    TeacherId = 01,
+    Name = "John Doe",
+    Degree = "MSc in IT",
+    Department = "IT",
+    YearsOfExperience = 12
+
+};
