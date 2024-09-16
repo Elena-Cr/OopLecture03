@@ -24,5 +24,12 @@ Student student2 = new()
     Name = "Edward Nygma",
     Dob = DateTime.Now
 };
-student2.PrintStudentInfo();
 
+student2.PrintStudentInfo();
+Console.WriteLine("Provide details to add student\nProvide Student Id:");
+student1.StudentId = int.Parse(Console.ReadLine());
+Console.WriteLine("Provide Student Name:");
+student1.Name = Console.ReadLine();
+Console.WriteLine("Provide Student Date of Birth in DD-MM-YYYY Format:");
+student1.Dob = DateTime.ParseExact(Console.ReadLine(), "dd-MM-yyyy", null);
+student1.PrintStudentInfo();

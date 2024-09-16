@@ -11,4 +11,8 @@ public class Student
     {
         Console.WriteLine($"Id:{StudentId}, Name:{Name}, Date of Birth:{Dob}");
     }
+    public string GetStudentInfo()
+    {
+        return $"Id:{StudentId}, Name:{Name}, Date of Birth:{Dob}";
+    }
 }
